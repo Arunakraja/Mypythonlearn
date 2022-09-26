@@ -1,4 +1,4 @@
-num = 153
+num = 154
 sum = 0
 temp = num
 while temp>0:
